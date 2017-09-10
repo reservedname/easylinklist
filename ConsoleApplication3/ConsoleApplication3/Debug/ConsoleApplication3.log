@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+h:\cpp learning\consoleapplication3\consoleapplication3\consoleapplication3.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConsoleApplication3.vcxproj -> H:\Cpp learning\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> H:\Cpp learning\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)
